@@ -1,0 +1,13 @@
+flask
+flask-cors
+flask-socketio
+simple-websocket
+opencv-python
+numpy
+ultralytics
+torch
+torchvision
+deepface
+easyocr
+pytesseract
+Pillow
